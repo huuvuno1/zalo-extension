@@ -22,7 +22,7 @@
   "content_scripts": [
     {
       "js": [
-        "assets/index.js-loader-6d93fd3f.js"
+        "assets/index.js-loader-5a6c8d8b.js"
       ],
       "matches": [
         "http://*/*",
@@ -50,7 +50,7 @@
         "https://*/*"
       ],
       "resources": [
-        "assets/chunk-c8330eee.js"
+        "assets/chunk-0ae897fc.js"
       ],
       "use_dynamic_url": true
     }
